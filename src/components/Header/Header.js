@@ -17,14 +17,7 @@ const Header = () => (
     <Div1>
       <Link href="/">
         <a style={{ display: "flex", alignItems: "center", color: "white" }}>
-          <figure style={{ backgroundColor: "skyblue", borderRadius: 50 }}>
-            <img
-              src="https://res.cloudinary.com/realback/image/upload/v1628096312/WhatsApp_Image_2021-08-04_at_2.36.15_PM_u8wskq.jpg"
-              alt="sachin"
-              style={{ width: 40, height: 40, borderRadius: 50 }}
-            />
-          </figure>
-          {/* <DiCssdeck size="3rem" /> <span>Portfolio</span> */}
+          <DiCssdeck size="3rem" /> <span>Sachin</span>
         </a>
       </Link>
     </Div1>
